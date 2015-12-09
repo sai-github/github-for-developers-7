@@ -7,3 +7,4 @@
 (hobby) Exploring new things
 
 (color) blue and black
+
