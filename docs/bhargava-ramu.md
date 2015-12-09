@@ -1,7 +1,9 @@
-Bhargava Ramu
+(Name) Bhargava Ramu
 
-Visakhapatnam, India
+(Place) Visakhapatnam, India
 
-No specific interest
+(food) No specific interest
 
-Exploring new things
+(hobby) Exploring new things
+
+(color) blue and black
